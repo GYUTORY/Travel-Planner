@@ -65,11 +65,3 @@
 
 ### 6. 날씨 API
 - GET /weather - 여행지 날씨 조회 
-
-## 문서
-NestJS 관련 상세 문서는 [docs/nestjs](./docs/nestjs) 디렉토리에서 확인할 수 있습니다:
-- [아키텍처 및 동작 흐름](./docs/nestjs/architecture.md)
-- [어노테이션 가이드](./docs/nestjs/annotations.md)
-- [모듈 구조](./docs/nestjs/modules.md)
-- [데이터베이스 설정](./docs/nestjs/database.md)
-- [보안 설정](./docs/nestjs/security.md)
